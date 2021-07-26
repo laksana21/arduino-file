@@ -1,0 +1,11 @@
+http://arduino.esp8266.com/versions/2.3.0/package_esp8266com_index.json
+
+https://github.com/TMRh20/Sketches/tree/master/TX_0
+http://tmrh20.github.io/RF24Audio/
+https://tmrh20.github.io/RF24Audio/
+https://tmrh20.github.io/RF24Audio/examples.html
+https://tmrh20.github.io/RF24Audio/PrivateChannels_8ino-example.html
+https://tmrh20.github.io/RF24Audio/PrivateGroups_8ino-example.html
+https://tmrh20.github.io/RF24Audio/USB_Audio_8ino-example.html
+https://tmrh20.github.io/RF24Audio/RF24Audio_8h_source.html
+https://github.com/nRF24/RF24
